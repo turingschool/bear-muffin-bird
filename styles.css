@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Helvetica Neue";
+}
+
+header {
+  background-color: #444;
+  padding: 0.6%;
+}
+
+h1 {
+  color: #fff;
+  font-family: 'Pacifico', cursive;
+}
+
+.add {
+  color: #fff;
+  background-color: #ea4c89;
+  font-size: 150%;
+  padding: 1%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add:hover {
+  background-color: #df3e7b;
+}
