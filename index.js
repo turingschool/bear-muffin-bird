@@ -1,6 +1,6 @@
-var addBearBtn = document.querySelector('.bear');
-var addMuffinBtn = document.querySelector('.muffin');
-var addBirdBtn = document.querySelector('.bird');
+var addBearBtn = document.querySelector('.bear-btn');
+var addMuffinBtn = document.querySelector('.muffin-btn');
+var addBirdBtn = document.querySelector('.bird-btn');
 var allItems = document.querySelector('.items');
 
 addBearBtn.addEventListener('click', addBear);
