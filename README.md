@@ -16,4 +16,7 @@ Your task is to add in delete functionality.
 
 **Level 1:** When a bear, muffin, or bird emoji has been clicked on, it should be removed from the DOM.
 
-**Level 2:** Bears are known for being stubborn. Modify the functionality so that only birds and muffins can be removed. When a bear is clicked on, the user should see "GRRRR" appear under the specific bear that was clicked on.
+**Level 2:** There are currently 3 event handlers, one for each button. How could you utilize a SINGLE event handler on the parent element of the button? This will likely require making a `handler` function! 
+
+**Level 3:** Bears are known for being stubborn. Modify the functionality so that only birds and muffins can be removed. When a bear is clicked on, the user should see "GRRRR" appear under the specific bear that was clicked on.
+
