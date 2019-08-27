@@ -8,7 +8,7 @@ Clone this repository down and run locally with `open index.html`.
 
 ## Existing Code
 
-Before jumping in to work, get a lay of the code base. Get the project up and running, explore what it does in the browser. Skim through the code so you have a feel for how the currently funcionality has been achieved.
+Before jumping in to work, get a lay of the code base. Get the project up and running, explore what it does in the browser. Skim through the code so you have a feel for how the currently functionality has been achieved.
 
 ## Tasks
 
