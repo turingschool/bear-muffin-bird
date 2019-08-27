@@ -10,9 +10,7 @@ Clone this repository down and run locally with `open index.html`.
 
 Before jumping in to work, get a lay of the code base. Get the project up and running, explore what it does in the browser. Skim through the code so you have a feel for how the currently funcionality has been achieved.
 
-## Task
-
-Your task is to add in delete functionality. 
+## Tasks
 
 **Level 1:** When a bear, muffin, or bird emoji has been clicked on, it should be removed from the DOM.
 
