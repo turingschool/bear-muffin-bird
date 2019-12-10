@@ -8,9 +8,11 @@ Clone this repository down and run locally with `open index.html`.
 
 ## Existing Code
 
-Before jumping in to work, get a lay of the code base. Get the project up and running, explore what it does in the browser. Skim through the code so you have a feel for how the currently functionality has been achieved.
+Before jumping in to work, get a feel for the code base. Get the project up and running, explore what it does in the browser. Skim through the code so you have a feel for how the currently functionality has been achieved.
 
 ## Tasks
+
+With your partner, whiteboard/journal out a plan for how you will apprach the tasks before writing ANY code for that given task.
 
 **Level 1:** When a bear, muffin, or bird emoji has been clicked on, it should be removed from the DOM.
 
